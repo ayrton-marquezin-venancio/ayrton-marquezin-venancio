@@ -80,7 +80,7 @@ Meu objetivo é continuar desenvolvendo minha formação em Ciência de Dados, a
 ## Conecte-se comigo
 
 <p align="left">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ayrton-marquezin-venancio/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ayrtonmarquezinvenancio@gmail.com">
