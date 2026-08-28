@@ -1,7 +1,7 @@
 <h1 align="left">Olá, eu sou o Ayrton!</h1>
 
 <h3 align="left">
-Estudante de Ciência de Dados e Inteligência Artificial | Data Analytics | Business Intelligence
+Estudante de Ciências de Dados e Inteligência Artificial
 </h3>
 
 <p align="left">
