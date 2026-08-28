@@ -43,9 +43,12 @@ Atualmente, atuo como Analista de Dados Voluntário na ZOODATA, contribuindo em 
 
 ### Python para Dados
 
+### Python para Dados
+
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSV%20%7C%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### Inteligência Artificial
