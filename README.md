@@ -86,11 +86,9 @@ Meu objetivo é continuar desenvolvendo minha formação em Ciência de Dados, a
   </a>
 </p>
 
-## 🐍 Jogo da Cobrinha
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Insertion Snake" src="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayrton-marquezin-venancio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayrton-marquezin-venancio/ayrton-marquezin-venancio/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayrton-marquezin-venancio/ayrton-marquezin-venancio/output/github-contribution-grid-snake.svg">
 </picture>
 
