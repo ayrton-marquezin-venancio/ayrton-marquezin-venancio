@@ -77,6 +77,17 @@ Meu objetivo é continuar desenvolvendo minha formação em Ciência de Dados, a
 
 ## Conecte-se comigo
 
+## Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayrton-marquezin-venancio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayrtonmarquezinvenancio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayrton-marquezin-venancio/ayrton-marquezin-venancio/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayrton-marquezin-venancio/ayrton-marquezin-venancio/output/github-contribution-grid-snake.svg">
