@@ -86,3 +86,11 @@ Meu objetivo é continuar desenvolvendo minha formação em Ciência de Dados, a
   </a>
 </p>
 
+## 🐍 Jogo da Cobrinha
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Insertion Snake" src="https://githubusercontent.com">
+</picture>
+
