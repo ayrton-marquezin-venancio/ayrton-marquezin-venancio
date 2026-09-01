@@ -79,4 +79,4 @@ Meu objetivo é continuar desenvolvendo minha formação em Ciência de Dados, a
 
 ## 🐍 Jogo da Cobrinha
 
-![GitHub clash snake](https://github.com)
+![GitHub clash snake](https://githubusercontent.com)
