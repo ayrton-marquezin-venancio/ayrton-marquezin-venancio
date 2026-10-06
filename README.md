@@ -28,17 +28,12 @@ Atualmente, atuo como Analista de Dados Voluntário na ZOODATA, contribuindo em 
 
 ## Tecnologias e Ferramentas
 
-### Análise de Dados e Business Intelligence
+### Dados, Business Intelligence e Programação
 
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### Programação
-
-<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -54,17 +49,15 @@ Atualmente, atuo como Analista de Dados Voluntário na ZOODATA, contribuindo em 
 ### Desenvolvimento e Organização
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### Inteligência Artificial
+### Inteligência Artificial, Automatização de Processos e Montagem de Prompts
 
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ---
@@ -135,9 +128,18 @@ Atualmente estou aprofundando meus conhecimentos em:
 - análise exploratória de dados
 - preparação e transformação de dados
 - avaliação de modelos de classificação
+- Processamento de Linguagem Natural (PLN)
+- classificação de textos
+- Bag of Words, TF-IDF, unigramas e bigramas
+- Logistic Regression aplicada à classificação
+- Accuracy, Precision, Recall, F1-score e F1-macro
+- divisão entre treino, validação e teste
+- análise de erros e comparação de modelos
+- prevenção de data leakage
 - SQL
 - Business Intelligence
 - Inteligência Artificial aplicada a dados
+- automatização de processos e elaboração de prompts
 
 ---
 
