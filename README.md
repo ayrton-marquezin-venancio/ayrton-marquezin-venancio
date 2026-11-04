@@ -68,7 +68,8 @@ Meu foco é compreender o problema antes de escolher a solução, manter os dado
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### Inteligência Artificial, Planejamento de Código e Skills
+
+### Inteligência Artificial, Engenharia de Soluções e Agent Skills
 
 <p align="left">
   <img alt="OpenAI Codex" src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -76,9 +77,46 @@ Meu foco é compreender o problema antes de escolher a solução, manter os dado
   <img alt="Claude" src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
-<p align="left">
-  Utilizo essas ferramentas como apoio à análise de requisitos, ao planejamento técnico através de PRD e SDD e Writing Plans, à documentação e à revisão. Também crio e aplico instruções reutilizáveis através de Skills para organizar tarefas como revisão de projetos Python e dados.
-</p>
+Utilizo ferramentas de Inteligência Artificial como apoio à **Engenharia de Soluções**, abrangendo análise de requisitos, planejamento técnico, desenvolvimento assistido, documentação, revisão de código e validação de resultados.
+
+Meu processo de trabalho envolve a elaboração de **PRDs (Product Requirements Documents)**, **SDDs (Software Design Documents)** e planos estruturados de implementação, buscando transformar necessidades e problemas em soluções organizadas, verificáveis e alinhadas aos objetivos de cada projeto.
+
+Também estudo, personalizo e aplico **Agent Skills**, conjuntos de instruções reutilizáveis que orientam agentes de IA na execução de tarefas específicas. Tenho familiaridade com Skills voltadas ao planejamento, desenvolvimento, revisão, automação e documentação, selecionando-as de acordo com as necessidades de cada projeto.
+
+#### Skills e áreas de aplicação
+
+**1. Análise de Requisitos e Especificação**
+
+- `find-skills` — Descoberta e seleção de Skills adequadas às necessidades de cada projeto.
+- `prd-wizard-pack` — Apoio à estruturação de requisitos e elaboração de documentos de produto (PRD).
+- `spec-driven-development` — Organização do desenvolvimento a partir de especificações, requisitos e critérios definidos.
+- `artifact-template-atlas-dataflow-planejamento` — Estruturação e padronização de artefatos de planejamento de projetos.
+
+**2. Planejamento e Execução de Projetos**
+
+- `writing-plans` — Elaboração de planos de implementação, com etapas, tarefas e critérios de execução.
+- `executing-plans` — Execução estruturada de planos previamente definidos.
+- `subagent-driven-development` — Organização de atividades de desenvolvimento com apoio de agentes especializados.
+
+**3. Revisão de Código e Garantia de Qualidade**
+
+- `python-data-project-review` — Skill personalizada que desenvolvi para revisão estruturada de projetos Python e dados, com análise de código, identificação de problemas e recomendações de melhorias.
+- `requesting-code-review` — Preparação e solicitação de revisões técnicas de código.
+- `receiving-code-review` — Análise crítica de feedback técnico e avaliação de possíveis correções.
+- `verification-before-completion` — Verificação de resultados e evidências de funcionamento antes da conclusão das tarefas.
+
+**4. Notebooks, Automação e Testes**
+
+- `jupyter-notebook` — Apoio ao desenvolvimento e à organização de notebooks para programação, análise de dados e documentação.
+- `playwright` — Automação de interações com aplicações web e apoio à realização de testes.
+
+#### Metodologia de Trabalho
+
+Busco integrar essas ferramentas a um fluxo de desenvolvimento estruturado:
+
+**Compreensão do problema → Definição de requisitos → Planejamento → Implementação → Revisão → Testes → Validação.**
+
+Meu objetivo é utilizar a Inteligência Artificial não apenas como ferramenta de geração de código, mas como **apoio ao planejamento, à organização e à avaliação crítica de soluções**, mantendo a responsabilidade sobre as decisões técnicas, os requisitos e a qualidade dos resultados.
 
 ---
 
