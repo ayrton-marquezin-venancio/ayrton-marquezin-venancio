@@ -104,12 +104,7 @@ Também estudo, personalizo e aplico **Agent Skills**, conjuntos de instruções
 - `requesting-code-review` — Preparação e solicitação de revisões técnicas de código.
 - `receiving-code-review` — Análise crítica de feedback técnico e avaliação de possíveis correções.
 - `verification-before-completion` — Verificação de resultados e evidências de funcionamento antes da conclusão das tarefas.
-
-**4. Notebooks, Automação e Testes**
-
-- `jupyter-notebook` — Apoio ao desenvolvimento e à organização de notebooks para programação, análise de dados e documentação.
-- `playwright` — Automação de interações com aplicações web e apoio à realização de testes.
-
+- 
 #### Metodologia de Trabalho
 
 Busco integrar essas ferramentas a um fluxo de desenvolvimento estruturado:
