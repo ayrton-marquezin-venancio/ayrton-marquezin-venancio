@@ -104,7 +104,7 @@ Também estudo, personalizo e aplico **Agent Skills**, conjuntos de instruções
 - `requesting-code-review` — Preparação e solicitação de revisões técnicas de código.
 - `receiving-code-review` — Análise crítica de feedback técnico e avaliação de possíveis correções.
 - `verification-before-completion` — Verificação de resultados e evidências de funcionamento antes da conclusão das tarefas.
-- 
+
 #### Metodologia de Trabalho
 
 Busco integrar essas ferramentas a um fluxo de desenvolvimento estruturado:
