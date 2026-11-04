@@ -1,11 +1,11 @@
-<h1 align="left">Olá, eu sou Ayrton Marquezin Venancio!</h1>
+<h1 align="left">Olá, eu sou o Ayrton!</h1>
 
 <h3 align="left">
-Estudante de Ciência de Dados e Inteligência Artificial | Análise de Dados, Machine Learning e Automação
+Ciências de Dados, Análise de Dados, Machine Learning e Automação
 </h3>
 
 <p align="left">
-Sou estudante de Ciência de Dados e Inteligência Artificial na Universidade Veiga de Almeida (UVA) e Analista de Dados voluntário no núcleo de dados da ZOODATA. Desenvolvo projetos para explorar, tratar, validar e comunicar dados, além de automatizar tarefas com Python.
+Sou estudante de Ciências de Dados e Inteligência Artificial na Universidade Veiga de Almeida (UVA) e Analista de Dados voluntário no núcleo de dados da ZOODATA. Desenvolvo projetos para explorar, tratar, validar e comunicar dados, além de automatizar tarefas com Python.
 </p>
 
 <p align="left">
