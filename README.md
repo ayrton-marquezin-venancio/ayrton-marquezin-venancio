@@ -5,7 +5,7 @@ Estudante de Ciências de Dados e Inteligência Artificial
 </h3>
 
 <p align="left">
-Estudante de Ciência de Dados e Inteligência Artificial pela Universidade Veiga de Almeida (UVA), com interesse em análise de dados, Machine Learning, Business Intelligence e aplicação de tecnologia na resolução de problemas.
+Estudante de Ciências de Dados e Inteligência Artificial pela Universidade Veiga de Almeida (UVA), com interesse em análise de dados, Machine Learning, Business Intelligence e aplicação de tecnologia na resolução de problemas.
 </p>
 
 <p align="left">
