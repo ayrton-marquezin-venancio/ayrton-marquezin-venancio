@@ -77,7 +77,7 @@ Meu foco é compreender o problema antes de escolher a solução, manter os dado
 </p>
 
 <p align="left">
-  Utilizo essas ferramentas como apoio à análise de requisitos, ao planejamento técnico, à documentação e à revisão. Também crio e aplico instruções reutilizáveis (Skills) para organizar tarefas como revisão de projetos Python e dados.
+  Utilizo essas ferramentas como apoio à análise de requisitos, ao planejamento técnico através de PRD e SDD e Writing Plans, à documentação e à revisão. Também crio e aplico instruções reutilizáveis através de Skills para organizar tarefas como revisão de projetos Python e dados.
 </p>
 
 ---
