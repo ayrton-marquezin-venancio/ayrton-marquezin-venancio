@@ -87,7 +87,6 @@ Também estudo, personalizo e aplico **Agent Skills**, conjuntos de instruções
 
 **1. Análise de Requisitos e Especificação**
 
-- `find-skills` — Descoberta e seleção de Skills adequadas às necessidades de cada projeto.
 - `prd-wizard-pack` — Apoio à estruturação de requisitos e elaboração de documentos de produto (PRD).
 - `spec-driven-development` — Organização do desenvolvimento a partir de especificações, requisitos e critérios definidos.
 - `artifact-template-atlas-dataflow-planejamento` — Estruturação e padronização de artefatos de planejamento de projetos.
